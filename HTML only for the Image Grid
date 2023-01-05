@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button class="btn" onclick="one()"> 1</button>
+<button class="btn" onclick="two()"> 2</button>
+<button class="btn active" onclick="three()"> 3</button>
+
+
+<div class="row">
+        <div class="column">
+<img src="img/flash.JPG">
+<img src="img/flash.JPG">
+<img src="img/IMG_4141.JPG">
+<img src="img/flash.JPG">
+<img src="img/flash.JPG">
+<img src="img/IMG_4141.JPG">
+    </div>
+          <div class="column">
+<img src="img/flash.JPG">
+<img src="img/flash.JPG">
+<img src="img/IMG_4141.JPG">
+<img src="img/flash.JPG">
+<img src="img/flash.JPG">
+<img src="img/IMG_4141.JPG">
+    </div>
+          <div class="column">
+<img src="img/flash.JPG">
+<img src="img/flash.JPG">
+<img src="img/IMG_4141.JPG">
+<img src="img/flash.JPG">
+<img src="img/flash.JPG">
+<img src="img/IMG_4141.JPG">
+    </div>
+</div>
+
+</body>
+</html>
